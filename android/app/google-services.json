@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109304363218",
+    "firebase_url": "https://blogpost-c011f-default-rtdb.firebaseio.com",
+    "project_id": "blogpost-c011f",
+    "storage_bucket": "blogpost-c011f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109304363218:android:6ebc83e8a266bf3876550b",
+        "android_client_info": {
+          "package_name": "com.example.blackcofferr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109304363218-behs5d2dp15guq09eo2p8vqnp0s5j1q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0ASpwwAwCkUvM7-L1p-9Uwx3SjEciSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109304363218-behs5d2dp15guq09eo2p8vqnp0s5j1q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
